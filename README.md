@@ -9,6 +9,6 @@
 
 #### Running the Program
 
-1. Open Terminal and change to the 'Invisibility-Cloak' directory
-2. Step away from the background and run `python invisible clock.py`
+1. Open Terminal and change to the directory
+2. Step away from the background and run `python 'invisible clock.py'`
 3. When the webcam opens up put any reddish cloth in front of the cam and see the magic
